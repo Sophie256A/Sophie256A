@@ -19,7 +19,7 @@ I don't just build dashboards — I focus on understanding the *why* behind the 
 *   Built interactive KPIs: Revenue, ADR ($905.3), Discounts, Nights Booked.
 *   Uncovered insights: Studio rooms drove $21.1M, SC meal plan 66% of revenue, Corporate is top segment.
 *   **Tools:** Power BI, DAX (SUMX, CALCULATE), Power Query
-*   **Repo:** [Hotel Sales Dashboard]()
+*   **Repo:** [Hotel Sales Dashboard](https://github.com/Sophie256A/Hotel-Sales-Performance-Analysis)
 
 **2. 📈 More Projects Coming Soon...**
 *   Working on Sales, Health, HR, and Finance dashboards.
